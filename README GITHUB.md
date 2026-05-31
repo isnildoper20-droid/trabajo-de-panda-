@@ -2,7 +2,7 @@
 
 # 🐼 Taller Práctico de Pandas y Operaciones Matemáticas
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jeffer301/INTELIGENCIA-ARTIFICIAL--JEFFERSON-VALENCIA/blob/main/taller-panda/taller_pandas.ipynb)
+[![Open In Colab](https://colab.research.google.com/drive/1-R_gs0KKviKhuEULtipROviy48iVSzmg#scrollTo=RbljxcltTdc8)
 
 <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-2.2.2-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
