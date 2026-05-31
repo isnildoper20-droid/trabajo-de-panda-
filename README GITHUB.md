@@ -61,7 +61,7 @@ taller-panda/
 El dataset contiene **60 productos** (tecnología y oficina) y se carga directamente desde GitHub:
 
 ```python
-url = 'https://raw.githubusercontent.com/jeffer301/INTELIGENCIA-ARTIFICIAL--JEFFERSON-VALENCIA/refs/heads/main/taller-panda/productos.csv'
+url = 'https://raw.githubusercontent.com/isnildoper20-droid/teller_de-panda/main/Data/productos.csv'
 df = pd.read_csv(url, encoding='utf-8-sig')
 ```
 
